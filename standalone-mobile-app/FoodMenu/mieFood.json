@@ -1,0 +1,20 @@
+[
+ {
+     "title": "Mie Yamin",
+     "description": "A sweet and savory noodle dish, usually served with chicken and mushrooms. The noodles are seasoned with a blend of sweet soy sauce and other seasonings, often garnished with bok choy and fried shallots.",
+     "price": "$6",
+     "imageName": "Mie-Yamin"
+ },
+ {
+     "title": "Mie Baso",
+     "description": "This dish features noodles served in a rich, savory broth with meatballs (bakso), typically made from beef or chicken. It's often accompanied by vegetables like bok choy and topped with fried shallots and sambal.",
+     "price": "$6.50",
+     "imageName": "Mie-Baso"
+ },
+ {
+     "title": "Mie Tektek",
+     "description": "A street-food style fried noodle dish, named after the 'tek-tek' sound of the spatula hitting the wok. It's usually cooked to order and includes chicken, vegetables, and sometimes egg, all stir-fried with a flavorful sauce.",
+     "price": "$7",
+     "imageName": "Mie-Tektek"
+ }
+ ]

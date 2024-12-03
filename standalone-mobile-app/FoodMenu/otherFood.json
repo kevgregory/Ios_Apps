@@ -1,0 +1,21 @@
+[
+ {
+     "title": "Tahu Isi",
+     "description": "This is a popular Indonesian snack made of fried tofu stuffed with a mixture of vegetables like shredded carrot, cabbage, and bean sprouts, often seasoned with garlic, pepper, and sometimes meat or shrimp. These tofu pockets are then dipped in a simple batter and deep-fried until golden and crispy.",
+     "price": "$1.50",
+     "imageName": "Tahu-isi"
+ },
+ {
+     "title": "Bala-Bala",
+     "description": "Bala-Bala is a traditional Indonesian vegetable fritter. It's made from a mixture of shredded vegetables such as cabbage, carrots, and bean sprouts, combined with a seasoned batter of flour and spices. These fritters are deep-fried until they achieve a crunchy exterior while remaining tender inside.",
+     "price": "$2",
+     "imageName": "Bala-Bala"
+ },
+ {
+     "title": "Pisang Goreng",
+     "description": "Pisang Goreng is essentially fried bananas. Ripe bananas are coated in a batter made from flour and often a hint of sugar and vanilla, then deep-fried until golden brown. These sweet treats are crispy on the outside with a soft, warm banana inside, often served with powdered sugar or chocolate sauce for dipping.",
+     "price": "$24",
+     "imageName": "Pisang-Goreng"
+ }
+]
+

@@ -1,0 +1,14 @@
+[
+ {
+     "title": "Roti Bakar",
+     "description": "This is a popular Indonesian snack. The bread is usually thickly sliced, toasted, and then topped with a variety of sweet toppings like chocolate, cheese, or fruit jams.",
+     "price": "$2",
+     "imageName": "Roti-Bakar"
+ },
+ {
+     "title": "Martabak Manis",
+     "description": "This is a sweet, thick pancake filled with ingredients like chocolate, peanuts, cheese, or condensed milk. The batter is poured into a large pan, resulting in a fluffy, chewy texture.",
+     "price": "$5",
+     "imageName": "Martabak-Manis"
+ }
+ ]

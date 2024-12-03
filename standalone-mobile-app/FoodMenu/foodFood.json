@@ -1,0 +1,20 @@
+[
+{
+     "title": "Nasi Goreng",
+     "description": "A classic Indonesian fried rice dish, typically flavored with a blend of sweet soy sauce, garlic, tamarind, and chili. Often includes ingredients like chicken, prawns, or beef, and garnished with items like fried egg, prawn crackers, and sliced cucumber or tomato.",
+     "price": "$7",
+     "imageName": "Nasi-Goreng"
+ },
+{
+     "title": "Mie Goreng",
+     "description": "This is Indonesian stir-fried noodles, often prepared with a savory and slightly sweet sauce. Common ingredients include chicken, shrimp, vegetables, and sometimes egg, garnished with fried shallots and lime wedges.",
+     "price": "$6",
+     "imageName": "Mie-Goreng"
+ },
+ {
+     "title": "Kwetiaw Goreng",
+     "description": "A flavorful stir-fried flat rice noodle dish, seasoned with soy sauce, garlic, and a variety of other ingredients such as seafood, chicken, beef, or vegetables. It's known for its bold flavors and often spicy taste.",
+     "price": "$4",
+     "imageName": "Kwetiaw-Goreng"
+ }
+]

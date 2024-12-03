@@ -1,0 +1,20 @@
+[
+ {
+     "title": "Nasi Ayam",
+     "description": "A simple yet popular dish consisting of rice served with chicken. The chicken can be prepared in various ways - fried, grilled, or simmered in a flavorful broth. Often served with a side of soup and sambal (chili sauce).",
+     "price": "$7.50",
+     "imageName": "Nasi-Ayam"
+ },
+ {
+     "title": "Nasi Ayam Bakar",
+     "description": "This is grilled chicken served with rice. The chicken is marinated in a blend of spices and grilled to perfection, resulting in a smoky and savory flavor. Accompanied by sambal and sometimes a light soup.",
+     "price": "$8",
+     "imageName": "Nasi-Ayam-Bakar"
+ },
+ {
+     "title": "Nasi Timbel",
+     "description": "A traditional Sundanese meal that includes steamed rice wrapped in a banana leaf, which imparts a unique aroma. It's typically served with fried chicken, salted fish, tofu, tempeh, and a variety of fresh vegetables.",
+     "price": "$7",
+     "imageName": "Nasi-Timbel"
+ }
+ ]
